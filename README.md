@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Zakhar Samokhvalov • Junior Sysadmin</strong><br>
-  Linux systems · CI pipelines · Networking · Containers
+  Linux systems · CI pipelines · Containers
 </p>
 
 <p align="center">
