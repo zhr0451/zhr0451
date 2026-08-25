@@ -13,7 +13,7 @@
 
 ## About me
 
-I've been working as a junior sysadmin since 2024. I mainly handle tech support, containerised services, local and cloud servers, and CI/CD pipelines.
+I've been working as a sysadmin since 2024. I mainly handle tech support, containerised services, local and cloud servers, and CI/CD pipelines.
 
 ### Current projects
 
