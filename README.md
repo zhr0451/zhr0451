@@ -17,9 +17,9 @@ I've been working as a sysadmin since 2024. I mainly handle tech support, contai
 
 ## Projects
 
-- 🟢 **In progress** — **Dungeon Deck**, a pet project: a music player for TTRPG game masters. I plan to release it under the MPL 2.0 license soon.
-- 🟢 **In progress** — [**ComeForte Web**](https://comeforte24.ru/), a website for my organisation. I mainly work on its cloud & pipeline servers.
-- ✅ **Completed** — [**Ludum Dare 59**](https://github.com/zhr0451/ld-59), a game made for the Ludum Dare 59 jam.
+- 🟢 **Dungeon Deck**, a pet project: a music player for TTRPG game masters. I plan to release it under the MPL 2.0 license soon.
+- 🟢 [**ComeForte Web**](https://comeforte24.ru/), a website for my organisation. I mainly work on its cloud & pipeline servers.
+- ✅ [**Ludum Dare 59**](https://github.com/zhr0451/ld-59), a game made for the Ludum Dare 59 jam.
 
 ## Tech
 
